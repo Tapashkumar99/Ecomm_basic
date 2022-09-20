@@ -1,0 +1,12 @@
+E-commerce Website 
+
+
+What I did?
+Steps: 1. Create React app.
+       2. Install react-bootstrap bootstrap package using npm.
+       3. Install react-icons package using npm.
+       4. Install @reach/routrer using npm.
+       5. Install react-use-cart using npm.
+       6. Install react-filter-search using npm.
+
+       8. Create global components inside src directory.
